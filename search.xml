@@ -4,13 +4,19 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="2021/05/29/hello-world/"/>
-      <url>2021/05/29/hello-world/</url>
+      <title>测试标题一</title>
+      <link href="2021/05/30/%E6%B5%8B%E8%AF%95%E6%A0%87%E9%A2%98%E4%B8%80/"/>
+      <url>2021/05/30/%E6%B5%8B%E8%AF%95%E6%A0%87%E9%A2%98%E4%B8%80/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="标题一"><a href="#标题一" class="headerlink" title="标题一"></a>标题一</h1><p><del>删除线</del></p><p>下载：<a href="http://www.jkpan.cc/space_ningque000_6303.html">http://www.jkpan.cc/space_ningque000_6303.html</a> （密码papapa）<br>或：<br>或：</p><p>解压密码：昼夜宣yin</p><p>请勿使用百度盘的在线解压！！<strong>请勿使用百度盘的任何解压功能</strong>！即使下载完以后也不要用百度盘解压，否则该资源可能永久失效。</p><h1 id="标题二"><a href="#标题二" class="headerlink" title="标题二"></a>标题二</h1><p><img src="https://woapp.10155.com/trafficBus/file/feedback/20210530/7cb1526e835b441499e2994de4ff43ba.jpg"></p><p><img src="https://i.ibb.co/bzjMrTY/91152.jpg"></p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 标题 </tag>
+            
+        </tags>
       
     </entry>
     
