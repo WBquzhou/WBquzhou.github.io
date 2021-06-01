@@ -33,16 +33,14 @@
 <link rel="stylesheet" href="/css/prism-tomorrow.css" type="text/css"></head>
 
 <script>
-  fetch('https://v1.hitokoto.cn')
+  fetch('https://v1.hitokoto.cn/?c=b')
     .then(response => response.json())
     .then(data => {
       const hitokoto = document.getElementById('hitokoto_text')
-      hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
       hitokoto.innerText = data.hitokoto
     })
     .catch(console.error)
 </script>
-
 
 
 
@@ -275,7 +273,7 @@
 
             <div class="description center-align">
                 
-                   <span id="jinrishici-sentence">正在加载今日诗词....</span>
+                   <p id="hitokoto"><a href="#" id="hitokoto_text">:D 获取中...</a></p>
                 
             </div>
         </div>
