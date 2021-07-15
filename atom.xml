@@ -6,7 +6,7 @@
   <link href="https://wbquzhou.github.io/atom.xml" rel="self"/>
   
   <link href="https://wbquzhou.github.io/"/>
-  <updated>2021-07-13T12:10:47.171Z</updated>
+  <updated>2021-07-15T14:09:24.446Z</updated>
   <id>https://wbquzhou.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>百度网盘内资源下载及解压简单介绍</title>
+    <link href="https://wbquzhou.github.io/2021/07/15/000/"/>
+    <id>https://wbquzhou.github.io/2021/07/15/000/</id>
+    <published>2021-07-15T14:08:12.000Z</published>
+    <updated>2021-07-15T14:09:24.446Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="百度网盘内资源下载及解压简单介绍"><a href="#百度网盘内资源下载及解压简单介绍" class="headerlink" title="百度网盘内资源下载及解压简单介绍"></a>百度网盘内资源下载及解压简单介绍</h1><p>首先，只要在使用百度下载的时候，只要没有出现如下图这样“包含违规信息”的提示，那就说明这个资源没问题，剩下的就是密码或者解压的问题了。</p><p>（如果提示了“违规”，那这个资源除非再次压缩上传，没有其他办法。目前21年的都有备份过，失效都可以从新补，需要的话可在公众号下方菜单栏–人工发链查看，按格式回复。注意这个是有偿的，具体可在公众号内查看。）</p><p><img src="https://mmbiz.qlogo.cn/mmbiz_png/ma0rTUUSukI9Y6ic0oxbdM1Lp0SGRdmLALtNibzPOZQicLtCSznb2eSPKj9EDarq23rIkxEdYRI1kcIfz8icaamsRA/0?wx_fmt=png" alt="img"></p><p>其次，如果在下载的时候没有出现类似上面的提示，然后解压的时候却提示文件损坏，或者密码错误等，这种情况基本上是解压软件or解压方式的问题。</p><p><strong>无论任何方式，请切勿使用百度网盘的在线<strong><strong>解压功能</strong></strong>！</strong></p><p>那我们就来说说如何解压软件和解压方式，<strong>最容易最便捷</strong>的方式就是：在电脑上把资源全部下完之后，用2345好压解压。</p><p>然鹅现在很多都是手机党，或者手边一时没有电脑，这时候需要操作的就比较麻烦点了，不过网上依然可以找到很多教程，直接随便发两个吧：</p><p>苹果的：<a href="https://jingyan.baidu.com/article/39810a23496927b636fda6df.html">https://jingyan.baidu.com/article/39810a23496927b636fda6df.html</a></p><p>安卓的：</p><p><a href="https://www.bilibili.com/video/BV1Kv411z76V?share_source=copy_web">https://www.bilibili.com/video/BV1Kv411z76V?share_source=copy_web</a></p><p>其实手机解压的话问题比较多，软件的话，安卓手机推荐使用ZArchiver这个APP，苹果手机推荐使用iZip或者解压大师这两个APP，软件百度都可以直接百度到，我之前也有发过的。解压方法根据当时实际情况来，当时更好的解压软件优先，根据你更为方便来为主，教程只是一个参考。至于中文汉字类密码如何使用问题也可以参考我之前发的教程。</p><p>最重要的：<strong>无论是电脑还是手机，都一定一定不要使用百度网盘的在线解压功能，即使下载完之后也不要在百度网盘内解压！</strong></p><p>顺便也简单说下一些文件的格式，还有哪些类型的是需要全部下完才能正常解压的：</p><p>a、下面这几种类型的都是需要全部下载完后，才可以直接解压：</p><p>7z.001  7z.002  7z.003….</p><p>zip  z01  z02  z03….</p><p>part1.rar  part2.rar  part3.rar…</p><p>tar.001  tar.002  tar.003…</p><p><img src="https://mmbiz.qlogo.cn/mmbiz_png/ma0rTUUSukI9Y6ic0oxbdM1Lp0SGRdmLAegF87gFAVWicJ7LYuQNawS8ZEia8ZmibOhJz7bI6YNdQicic1PvD7icls9gg/0?wx_fmt=png" alt="img"></p><p><img src="https://mmbiz.qlogo.cn/mmbiz_png/ma0rTUUSukI9Y6ic0oxbdM1Lp0SGRdmLAjI9Wuaic7LMfUrQB48ichkfeen1VVLjCxFKXKxLGGaX7gKAicoYyianAgw/0?wx_fmt=png" alt="img"></p><p><img src="https://mmbiz.qlogo.cn/mmbiz_png/ma0rTUUSukI9Y6ic0oxbdM1Lp0SGRdmLAROM5735j3BBee5g3vRkjVMH00hAaNzibX8SfuILk1eRlGQ4DjG1EAHQ/0?wx_fmt=png" alt="img"></p><p><img src="https://mmbiz.qlogo.cn/mmbiz_png/ma0rTUUSukI9Y6ic0oxbdM1Lp0SGRdmLAu0MtdnAov12afya2Cl84glibtuKzrLSGADMSsKTlkxgQmGPVLvexI5w/0?wx_fmt=png" alt="img"></p><p>基本上后缀的数字是按顺序排下来的，都是分卷的，需要全部下载完才能正常解压的。</p><p>b、还有一些是被发资源的人改了后缀的，比如下图中这个样加了汉字的，把汉字删掉就可以解压了</p><p><img src="https://mmbiz.qlogo.cn/mmbiz_png/ma0rTUUSukI9Y6ic0oxbdM1Lp0SGRdmLAVRPxNc4dfZTb1hm2CibAXx7QEicqpZL3JAuOmVicZpVOxIZe747aFn0zw/0?wx_fmt=png" alt="img"></p><p>还有一些就改的比较乱七八糟了，比如被改成了pdf、被改成了txt、被改成了7z1等等，我个人常用的就是把zip的改成7zip。</p><p>这种有些有说明要怎么改，有些没说明的只能靠经验来了 ，通常情况下可以改为rar或者7z试试看。</p><p>基本上就这些吧，以上只是做个大致的介绍，在实际使用中还是要自己多摸索下。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;百度网盘内资源下载及解压简单介绍&quot;&gt;&lt;a href=&quot;#百度网盘内资源下载及解压简单介绍&quot; class=&quot;headerlink&quot; title=&quot;百度网盘内资源下载及解压简单介绍&quot;&gt;&lt;/a&gt;百度网盘内资源下载及解压简单介绍&lt;/h1&gt;&lt;p&gt;首先，只要在使用百度下载的时</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>论坛网站资源代购</title>
